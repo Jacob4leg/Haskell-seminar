@@ -1,0 +1,4 @@
+-- Podstawowe typy :
+-- Int, Integer
+-- Float, Double
+-- Char, String
